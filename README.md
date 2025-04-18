@@ -1,4 +1,4 @@
-#Tworzenie API we Flasku
+# Tworzenie API we Flasku
 
 Zawartość:
 - `spp.py` — program uruchamiający API we flasku
